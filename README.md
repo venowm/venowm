@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @venowm
-- 👀 I’m interested in Computer sciences
 - 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on Backend development
 
